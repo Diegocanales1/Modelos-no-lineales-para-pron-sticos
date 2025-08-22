@@ -8,6 +8,6 @@ Estoy interesado en **Machine Learning y Deep Learning**, me gusta aplicar la pr
 
 ### Skills
 
-**Minería de Datos y ETL:** preprocesamiento, limpieza, extracción de información 
-**Series de Tiempo y Pronósticos:** ARIMA, modelos no lineales, ML para predicción 
-**Machine Learning y Deep Learning**
+- **Minería de Datos y ETL:** preprocesamiento, limpieza, extracción de información 
+- **Series de Tiempo y Pronósticos:** ARIMA, modelos no lineales, ML para predicción 
+- **Machine Learning y Deep Learning**
