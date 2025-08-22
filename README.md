@@ -1,6 +1,6 @@
 # Modelos-no-lineales-para-pronosticos
 
-                                                          ### Diego Canales Morales
+                                                              Diego Canales Morales
 
 ### Sobre Mi
 
