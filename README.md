@@ -14,3 +14,11 @@ I am a student oF Data Science Engineering at ITESO, I have a little knowledge a
 - **Data Mining & ETL:** preprocessing, cleaning, information extraction  
 - **Time Series & Forecasting:** ARIMA, nonlinear models, ML-based forecasting  
 - **Machine Learning & Deep Learning**  
+
+---
+
+## 💻 Programming Languages  
+
+- Python 🐍  
+- R 📊  
+- SQL 🗄️  
