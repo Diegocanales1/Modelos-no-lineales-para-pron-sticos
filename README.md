@@ -1,13 +1,16 @@
-# Modelos-no-lineales-para-pronosticos
 
-                                                              Diego Canales Morales
+Diego Canales Morales  
 
-### Sobre Mi
+---
 
-Estoy interesado en **Machine Learning y Deep Learning**, me gusta aplicar la programación y el análisis de datos para resolver problemas prácticos en diferentes áreas, también tengo experiencia en pronósticos y modelos estadísticos aplicados a datos reales.  
+## 👨‍🎓 About Me  
 
-### Skills
+I am a student oF Data Science Engineering at ITESO, I have a little knowledge about **Machine Learning and Deep Learning**, with a strong interest in applying programming and data analysis to solve real-world problems. I also have experience in **forecasting and statistical modeling** applied to real datasets.  
 
-- **Minería de Datos y ETL:** preprocesamiento, limpieza, extracción de información 
-- **Series de Tiempo y Pronósticos:** ARIMA, modelos no lineales, ML para predicción 
-- **Machine Learning y Deep Learning**
+---
+
+## 🛠️ Skills  
+
+- **Data Mining & ETL:** preprocessing, cleaning, information extraction  
+- **Time Series & Forecasting:** ARIMA, nonlinear models, ML-based forecasting  
+- **Machine Learning & Deep Learning**  
