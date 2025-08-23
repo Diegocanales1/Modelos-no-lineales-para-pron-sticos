@@ -33,7 +33,7 @@ I am a student oF Data Science Engineering at ITESO, I have a little knowledge a
 - Designed and led recreational and educational programs.  
 - Gained experience in teamwork, leadership, and responsibility.
 
-## ⛺ Summer Camp – [Hacienda San Javier  
+## ⛺ Summer Camp – [Hacienda San Javier]
 **Role:** Camp Counselor 
 **Period:** [2025]  
 
