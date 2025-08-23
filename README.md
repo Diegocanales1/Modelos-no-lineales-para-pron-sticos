@@ -17,6 +17,26 @@ I am a student oF Data Science Engineering at ITESO, I have a little knowledge a
 
 ---
 
+## 🏢 Refaccionaria Arboledas  
+**Role:** Assistant / Support Staff  
+**Period:** [2023]  
+
+- Supported daily operations in an automotive parts store.  
+- Assisted with inventory management and customer service.  
+- Developed organizational and problem-solving skills.
+
+## ⛺ Summer Camp – [Hacienda San Javier]  
+**Role:** Camp Counselor 
+**Period:** [2024]  
+
+- Supervised and guided children during activities and workshops.  
+- Designed and led recreational and educational programs.  
+- Gained experience in teamwork, leadership, and responsibility.
+
+## ⛺ Summer Camp – [Hacienda San Javier  
+**Role:** Camp Counselor 
+**Period:** [2025]  
+
 ## 💻 Programming Languages  
 
 - Python 🐍  
