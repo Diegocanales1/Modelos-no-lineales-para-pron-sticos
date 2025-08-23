@@ -18,7 +18,7 @@ I am a student oF Data Science Engineering at ITESO, I have a little knowledge a
 ---
 
 ## 🏢 Refaccionaria Arboledas  
-**Role:** Assistant / Support Staff  
+**Role:** Warehouse Assistant
 **Period:** [2023]  
 
 - Supported daily operations in an automotive parts store.  
